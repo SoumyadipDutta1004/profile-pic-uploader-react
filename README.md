@@ -1,7 +1,7 @@
 # A simple profile picture uploader
 
 
-[<img src="public/Screenshot.png" alt="Demo" width="600"/>]()
+[<img src="public/Screenshot.png" alt="Demo" width="300"/>]()
 
 
 ## 🛠️ Tech Stack
